@@ -8,7 +8,6 @@ Obtaining a primary data source is critical to construct a knowledge graph, sinc
 
 We invite submissions in the areas and intersections of Data Science and Knowledge Graph, potential topics include but are not limited to the following:
 
-```markdown
 *	Construction and Querying of Knowledge Graphs
 *	Knowledge Graph Expansion and Enrichment
 *	Open sources for knowledge Graph Management
@@ -20,7 +19,7 @@ We invite submissions in the areas and intersections of Data Science and Knowled
 *	Visualization for Open Data
 *	Advanced Search and Discovery for Open Data Portals
 *	Applications of Knowledge Graphs and Open Data
-```
+
 ## IMPORTANT DATES
 
 ```markdown
@@ -31,11 +30,9 @@ We invite submissions in the areas and intersections of Data Science and Knowled
 
 ### ACCEPTED FORMATS
 
-```markdown
 1. Extended abstracts (2 pages) or short paper (2 to 5 pages). Papers should be in PDF format and not anonymized.
 2. Posters should be in PDF, PNG, or GIF
 3. Demos should be submitted as video in MP4. Demos should be submitted with an abstract or short paper. Submitted demo videos should be no longer than 7 minutes; if accepted, a longer video or live demo may be invited.
-```
 
 ### SUBMISSIONS SITE
 
@@ -47,13 +44,11 @@ Submissions should be made to DSKG2019 on EasyChair.
 
 Because we are looking to promote discussion about an emerging area, we encourage authors to submit various types:
 
-```markdown
 * Works-In-Progress: To facilitate sharing of thought-provoking ideas and high-potential though preliminary research, authors are welcome to make submissions describing early-stage, in-progress, and/or exploratory work.
 * Demonstrations: Presentations of functioning technology with a short paper.
 * Posters
 * White Papers
 * Traditional Papers
-```
 
 ## PROGRAM COMMITTEE
 
