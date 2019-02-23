@@ -61,14 +61,15 @@ Because we are looking to promote discussion about an emerging area, we encourag
 
 * Brahmananda Sapkota, Samsung Electronics, Co. Ltd.
 * Simon Scerri, Fraunhofer IAIS, University of Bonn
+* TBD
 
 ## COMMITTEE CHAIRS
 
-Haklae Kim, Chungang University
-Jangwon Kim, Kunsan University
-Yuchul Jung, Kumoh National Institute of Technology
-Mingjung Lee, Sejong Cyber University
-Jisung Son, Korea Institute of Science and Technology Information
+* Haklae Kim, Chungang University
+* Jangwon Kim, Kunsan University
+* Yuchul Jung, Kumoh National Institute of Technology
+* Mingjung Lee, Sejong Cyber University
+* Jisung Son, Korea Institute of Science and Technology Information
 
 ## CONTACT
 
