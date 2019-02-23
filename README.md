@@ -55,8 +55,6 @@ Because we are looking to promote discussion about an emerging area, we encourag
 * Traditional Papers
 ```
 
-
-
 ## PROGRAM COMMITTEE
 
 * Brahmananda Sapkota, Samsung Electronics, Co. Ltd.
