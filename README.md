@@ -61,7 +61,7 @@ Because we are looking to promote discussion about an emerging area, we encourag
 * Haklae Kim, Chungang University
 * Jangwon Kim, Kunsan University
 * Yuchul Jung, Kumoh National Institute of Technology
-* Dongjun Seo, Kyungbook Univeristy
+* Dongjun Suh, Kyungbook National Univeristy
 * Mingjung Lee, Sejong Cyber University
 * Jisung Son, Korea Institute of Science and Technology Information
 
