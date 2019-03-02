@@ -56,7 +56,7 @@ Because we are looking to promote discussion about an emerging area, we encourag
 * Simon Scerri, Fraunhofer IAIS, University of Bonn
 * TBD
 
-## COMMITTEE CHAIRS
+## Organizers
 
 * Haklae Kim, Chungang University
 * Jangwon Kim, Kunsan University
