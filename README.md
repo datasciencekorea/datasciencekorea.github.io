@@ -44,7 +44,11 @@ Because we are looking to promote discussion about an emerging area, we encourag
 ### SUBMISSIONS SITE
 
 
-Submissions should be made to DSKG2019 on EasyChair. Submitted papers should conform to the Springer LNCS style and should describe, in English, original work that has not been published or submitted for publication elsewhere. 
+Submissions should be made to DSKG2019 on EasyChair submission page. 
+
+Submitted papers should conform to the Springer LNCS style and should describe, in English, original work that has not been published or submitted for publication elsewhere. 
+
+Selected papers will be invited to submit an extended full paper for peer-reviewed publication in special issues. 
 
 
 ## PROGRAM COMMITTEE
