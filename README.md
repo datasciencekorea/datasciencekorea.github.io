@@ -43,9 +43,9 @@ Because we are looking to promote discussion about an emerging area, we encourag
 
 ### SUBMISSIONS SITE
 
-```markdown
+
 Submissions should be made to DSKG2019 on EasyChair. Submitted papers should conform to the Springer LNCS style and should describe, in English, original work that has not been published or submitted for publication elsewhere. 
-```
+
 
 ## PROGRAM COMMITTEE
 
