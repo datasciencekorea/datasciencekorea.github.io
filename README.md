@@ -55,12 +55,12 @@ Submissions should be made to DSKG2019 on EasyChair. Submitted papers should con
 
 ## Organizers
 
-* Haklae Kim, Chungang University
-* Jangwon Kim, Kunsan University
-* Yuchul Jung, Kumoh National Institute of Technology
-* Dongjun Seo, Kyungbook Univeristy
-* Mingjung Lee, Sejong Cyber University
-* Jisung Son, Korea Institute of Science and Technology Information
+* [Haklae Kim](mailto:haklaekim@gmail.com), Chungang University
+* [Jangwon Kim](mailto:ikaros1223@gmail.com), Kunsan University
+* [Yuchul Jung](mailto:enthusia77@gmail.com), Kumoh National Institute of Technology
+* [Dongjun Seo](mailto:dongjun.suh@gmail.com), Kyungbook Univeristy
+* [Minjung Lee](mailto:mjlee@sjcu.ac.kr), Sejong Cyber University
+* [Jisung Son](mailto:redfunky07@gmail.com), Korea Institute of Science and Technology Information
 
 ## CONTACT
 
