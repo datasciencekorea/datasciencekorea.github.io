@@ -4,21 +4,25 @@ A knowledge graph is large networks of entities, their semantic types, propertie
 
 Obtaining a primary data source is critical to construct a knowledge graph, since building a new knowledge from scratch is not trivial. As we have already experienced, Wikipedia as open data has been widely used for constructing new knowledge across a variety of domains. Recently, significant amounts of data are published as open data in research, commercial and governments. These data can be a starting point for constructing a domain-specific knowledge graph through the interlinking of heterogeneous data. 
 
+This workshop aims to share and discuss about knowledge graph techniques based on open data both academia and industries. In particular, this workshop focuses on various use cases including data wrangling, data analysis, data visualization in the prospect of Data Science, and technical challenges to construct structured knowledge from large-scale raw data (focused on open data).
+
+
 ## CALL FOR SUBMISSIONS
 
 We invite submissions in the areas and intersections of Data Science and Knowledge Graph, potential topics include but are not limited to the following:
 
-*	Construction and Querying of Knowledge Graphs
-*	Knowledge Graph Expansion and Enrichment
-*	Open sources for knowledge Graph Management
-*	Quality Measurement of Knowledge Graphs 
-*	Knowledge representation for domain-specific data
-*	Knowledge Expansion using Government Open Data
-*	Semantic Integration for Government Open Data
-*	Open Data Quality Management
-*	Visualization for Open Data
-*	Advanced Search and Discovery for Open Data Portals
-*	Applications of Knowledge Graphs and Open Data
+* Knowledge Population using Open (Government)  Data
+* Semantic Knowledge Integration for Open (Government) Data
+* Various Analysis Efforts for Open (Government) Data Quality Management
+* Use Cases of Government Open (Government) Data Visualization
+* Advanced Techniques of Search and Knowledge Discovery for (Government) Open Data Portals
+* Applications of Knowledge Graphs and Open (Government) Data
+* Various NLP based Approaches to the Construction and Querying of Knowledge Graphs
+* Knowledge Graph Expansion and Enrichment
+* Open Sources (or tools) for Knowledge Graph Management
+* Quality Measurement of Knowledge Graphs
+* Knowledge Representation for Domain-specific Data
+
 
 ## IMPORTANT DATES
 
@@ -28,27 +32,20 @@ We invite submissions in the areas and intersections of Data Science and Knowled
 * Paper camera ready: May 15, 2019
 ```
 
-### ACCEPTED FORMATS
-
-1. Extended abstracts (2 pages) or short paper (2 to 5 pages). Papers should be in PDF format and not anonymized.
-2. Posters should be in PDF, PNG, or GIF
-3. Demos should be submitted as video in MP4. Demos should be submitted with an abstract or short paper. Submitted demo videos should be no longer than 7 minutes; if accepted, a longer video or live demo may be invited.
-
-### SUBMISSIONS SITE
-
-```markdown
-Submissions should be made to DSKG2019 on EasyChair.
-```
-
 ### SUBMISSIONS OPTIONS
 
 Because we are looking to promote discussion about an emerging area, we encourage authors to submit various types:
 
 * Works-In-Progress: To facilitate sharing of thought-provoking ideas and high-potential though preliminary research, authors are welcome to make submissions describing early-stage, in-progress, and/or exploratory work.
-* Demonstrations: Presentations of functioning technology with a short paper.
+* Demonstrations: Demos should be submitted as video (e.g. MP4). Demos should be submitted with an abstract or short paper. Submitted demo videos should be no longer than 5 minutes.
+* Traditional Papers: short paper (2 pages) or long paper (5 to 10 pages)
 * Posters
-* White Papers
-* Traditional Papers
+
+### SUBMISSIONS SITE
+
+```markdown
+Submissions should be made to DSKG2019 on EasyChair. Submitted papers should conform to the Springer LNCS style and should describe, in English, original work that has not been published or submitted for publication elsewhere. 
+```
 
 ## PROGRAM COMMITTEE
 
