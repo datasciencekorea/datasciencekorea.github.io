@@ -60,11 +60,11 @@ Selected papers will be invited to submit an extended full paper for peer-review
 ## Organizers
 
 * [Haklae Kim](mailto:haklaekim@gmail.com), Chungang University
-* [Jangwon Kim](mailto:ikaros1223@gmail.com), Kunsan University
+* [Jangwon Gim](mailto:ikaros1223@gmail.com),  Kunsan National University
 * [Yuchul Jung](mailto:enthusia77@gmail.com), Kumoh National Institute of Technology
-* [Dongjun Seo](mailto:dongjun.suh@gmail.com), Kyungbook Univeristy
+* [Dongjun Suh](mailto:dongjun.suh@gmail.com), Kyungpook National University
 * [Minjung Lee](mailto:mjlee@sjcu.ac.kr), Sejong Cyber University
-* [Jisung Son](mailto:redfunky07@gmail.com), Korea Institute of Science and Technology Information
+* [Jiseong Son](mailto:redfunky07@gmail.com), Korea Institute of Science and Technology Information
 
 ## CONTACT
 
