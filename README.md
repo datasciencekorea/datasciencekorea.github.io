@@ -56,6 +56,7 @@ Selected papers will be invited to submit an extended full paper for peer-review
 * Brahmananda Sapkota, Samsung Electronics, Co. Ltd.
 * Simon Scerri, Fraunhofer IAIS, University of Bonn
 * Jungyeon Yang, Samsung Electronics, Co. Ltd.
+* To be continued ..
 
 ## Organizers
 
